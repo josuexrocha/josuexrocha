@@ -77,6 +77,6 @@ Mon objectif est de devenir un développeur full stack polyvalent, capable de g�
 ## 📬 Contact
 
 - 📧 Email : [josuexr@icloud.com](mailto:josuexr@icloud.com)
-- 🔗 LinkedIn : [Josué Xavier Rocha](https://www.linkedin.com/in/votre-profil)
+- 🔗 LinkedIn : [Josué Xavier Rocha](https://www.linkedin.com/in/josuexavierrocha/)
 
 N'hésitez pas à explorer mes projets et à me contacter pour toute opportunité de collaboration !
