@@ -1,5 +1,5 @@
 # Josué Xavier Rocha
-## Développeur Web Full Stack en formation
+## Développeur Web Full Stack
 
 Bonjour ! 👋 Je suis Josué, actuellement en formation de Concepteur Développeur d'Applications (Bac+4) à l'École O'Clock. Je suis à la recherche d'un stage de 2 mois à partir de décembre pour finaliser ma formation.
 
