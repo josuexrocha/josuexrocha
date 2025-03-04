@@ -1,24 +1,29 @@
-
 # 👋 Hi, I’m Josué Xavier Rocha
 
-> **Full-Stack Web Developer** based in Strasbourg, France.  
-> Transforming ideas into impactful digital experiences with creativity and precision.
+> **Full-Stack Web Developer** based in Strasbourg, France.
+> Passionate about creating scalable, modern, and user-friendly applications.
 
 ## 📑 Table of Contents
-- [About Me](#-about-me)
-- [Technical Skills](#-technical-skills)
-- [How I Work](#how-i-work)
-- [Currently Learning](#-currently-learning)
-- [Career Goals](#-career-goals)
-- [Languages & Soft Skills](#-languages--soft-skills)
-- [Contact](#-contact)
+- [👋 Hi, I’m Josué Xavier Rocha](#-hi-im-josué-xavier-rocha)
+  - [📑 Table of Contents](#-table-of-contents)
+  - [🚀 About Me](#-about-me)
+  - [💻 Technical Skills](#-technical-skills)
+    - [Front-end Development](#front-end-development)
+    - [Back-end Development](#back-end-development)
+    - [🔧 DevOps \& Tools](#-devops--tools)
+  - [🔥 How I Work](#-how-i-work)
+  - [🌱 Currently Learning](#-currently-learning)
+  - [🎯 Career Goals](#-career-goals)
+  - [🏆 Languages \& Soft Skills](#-languages--soft-skills)
+  - [📬 Contact](#-contact)
 
 ## 🚀 About Me
 
-- 🎓 Currently completing a **Bachelor’s Level - BAC+4 (Application and Web Developer) program at École O’Clock**.
+- 🎓 **Graduated in Application and Web Development (Bachelor’s Level - BAC+4) from École O’Clock.**
+- 💼 **Career switcher**: From **lawyer** to **full-stack developer**, combining analytical thinking with technical creativity.
+- 🛠️ **Interned at InnovQube (3 months)**, working on a **SaaS application** using **PHP, Laravel, Agile, and data-driven development**.
 - 🌍 Originally from Brazil, living in Strasbourg since 2020.
-- 💼 Transitioned from **lawyer** to **developer**, combining analytical thinking with technical creativity.
-- 🌱 Continuously learning and exploring new technologies.
+- 🚀 Passionate about **clean architecture, efficient coding, and building solutions that make an impact**.
 
 ## 💻 Technical Skills
 
@@ -28,7 +33,6 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -39,116 +43,55 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
-
 ### Back-end Development
 
-**Languages**
+**Languages & Frameworks**
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frameworks**
-
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
----
+**Databases & API Development**
 
-### Database Systems
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-**Relational Databases**
+### 🔧 DevOps & Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**NoSQL Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Query Languages**
-
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
----
-
-### DevOps & Cloud
-
-**Tools**
+**Version Control & CI/CD**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-808080?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-430098?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
+## 🔥 How I Work
 
-### UI/UX Design
+- **Data-driven Development** → I rely on **metrics, analytics, and testing** to improve performance.
+- **Agile & Teamwork** → Experience working in **Scrum/Kanban teams** to deliver fast and iterate efficiently.
+- **Security & Best Practices** → Clean, **secure code** with a focus on **GDPR compliance and API security**.
+- **Problem-Solving Mindset** → My background in **law** gives me a unique analytical approach to debugging and architecture decisions.
 
-**Tools**
+## 🌱 Currently Learning
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**Responsive Design**: Focused on creating user-friendly experiences across devices.
-
----
-
-### Cybersecurity
-
-- **Practices**: Secure Authentication (JWT, bcrypt), OWASP Guidelines.
-
----
-
-## How I Work
-- **Development Methodologies**: Agile (Scrum/Kanban).
-- **Code Quality**: Writing clean, maintainable, and testable code.
-- **Collaboration Tools**: Slack, Trello, Jira.
-
----
-
-## 🌟 Passion for Development
-
-- Building scalable, efficient applications that make a difference.
-- Exploring the intersection of web development and sustainability.
-- Advocating for accessible and inclusive technology.
-
----
-
-## 📚 Currently Learning
-
-- Advanced React.js ecosystem.
-- Principles of microservices architecture.
-- Sustainable coding practices (Green Coding).
-
----
+- **Advanced Laravel & API Security**
+- **GraphQL & Next.js**
+- **Cloud Deployment & Serverless Architectures**
 
 ## 🎯 Career Goals
 
-I’m eager to join a dynamic, collaborative team where I can contribute to innovative projects and grow as a developer. My ultimate goal is to become a versatile full-stack developer capable of managing end-to-end projects.
+🚀 Work as a **Full-Stack Developer** in a company that values **innovation, clean code, and collaboration**.
+🌍 Open to **remote-friendly positions** in an **international environment**.
+📚 Keep growing, learning, and **contributing to open-source projects**.
 
----
+## 🏆 Languages & Soft Skills
 
-## 🌍 Languages & Soft Skills
-
-### Languages
-- 🇬🇧 English: Fluent
-- 🇫🇷 French: Fluent
-- 🇧🇷 Portuguese: Native
-
-### Soft Skills
-- Critical thinking and problem-solving.
-- Adaptability and quick learning.
-- Effective communication and collaboration.
-- Attention to detail and commitment to quality.
-
----
+**Languages**: 🇧🇷 Portuguese (Native), 🇫🇷 French (Fluent), 🇬🇧 English (Fluent)
+**Soft Skills**: Critical Thinking • Teamwork • Fast Learning • Problem-Solving • Adaptability
 
 ## 📬 Contact
 
 - 📧 Email : [josuexr@icloud.com](mailto:josuexr@icloud.com)
 - 🔗 LinkedIn : [Josué Xavier Rocha](https://www.linkedin.com/in/josuexavierrocha/)
 - 🖥️ Portfolio: [Josué's Portfolio](https://josuexrocha.github.io/portfolio/)
-
-When I’m not coding, you can find me experimenting with new recipes, running long distances, or enjoying good music with my family. Let’s connect and create something amazing!
